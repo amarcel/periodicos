@@ -2,27 +2,27 @@
 
 ## Revistas indexadas:
 
-1. RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação
-ISSN: 1646-9895
-Qualis novo: A2
-Pagamento: 500 Euros
-Site: http://www.risti.xyz/index.php?lang=pt
+1. RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação<br />
+ISSN: 1646-9895<br />
+Qualis novo: A2<br />
+Pagamento: 500 Euros<br />
+Site: http://www.risti.xyz/index.php?lang=pt<br />
 
 -------
 
-2. Conjecturas
-ISSN: 1657-5830
-Qualis novo: A3
-Pagamento: 399.00 Reais (minha experiência: processo de publicação rápido e sem burocracia)
-Site: http://www.conjecturas.org/index.php/edicoes
+2. Conjecturas<br />
+ISSN: 1657-5830<br />
+Qualis novo: A3<br />
+Pagamento: 399.00 Reais (minha experiência: processo de publicação rápido e sem burocracia)<br />
+Site: http://www.conjecturas.org/index.php/edicoes<br />
 
 -------
 
-3. Research, Society and Development journal
-ISSN: 2525-3409
-Qualis novo: A3
-Pagamento: 300 Reais
-Site: https://rsdjournal.org/index.php/rsd
+3. Research, Society and Development journal<br />
+ISSN: 2525-3409<br />
+Qualis novo: A3<br />
+Pagamento: 300 Reais<br />
+Site: https://rsdjournal.org/index.php/rsd<br />
 
 -------
 
