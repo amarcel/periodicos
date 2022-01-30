@@ -1,4 +1,4 @@
-# Periódicos para publicação científica - fev/2022
+# Periódicos para publicação científica :book: - fev/2022
 
 ## Revistas indexadas:
 
@@ -39,29 +39,29 @@ Site: http://www.journalijdr.com/<br />
 
 6. <strong>Abakós</strong><br />
 ISSN: 2316-9451<br />
-Pagamento: aparentemente gratuita<br />
+Pagamento: :free: aparentemente gratuita<br />
 Site: http://periodicos.pucminas.br/index.php/abakos<br />
 
 1. <strong>Brazilian Journal of Development (BJD)</strong><br />
 ISSN: 2525-8761<br />
-Pagamento: aparentemente gratuita<br />
+Pagamento: :free: aparentemente gratuita<br />
 Site: https://www.brazilianjournals.com/index.php/BRJD<br />
 
 ### Qualis unificado B3:
 
 8. <strong>Revista Tecnologia</strong><br />
 ISSN: 2318-0730<br />
-Pagamento: aparentemente gratuita<br />
+Pagamento: :free: aparentemente gratuita<br />
 Site: https://periodicos.unifor.br/tec<br />
 
 1. <strong>Revista Eletrônica de Sistemas de Informação e Gestão Tecnológica</strong><br />
 ISSN: ISSN 2237-0072<br />
-Pagamento: aparentemente gratuita<br />
+Pagamento: :free: aparentemente gratuita<br />
 Site: https://periodicos.unifacef.com.br/index.php/resiget<br />
 
 10. <strong>Revista Brasileira de Computação Aplicada</strong><br />
 ISSN: 2176-6649<br />
-Pagamento: aparentemente gratuita<br />
+Pagamento: :free: aparentemente gratuita<br />
 Site: http://seer.upf.br/index.php/rbca/index<br />
 
 11. <strong>Sodebras</strong><br />
@@ -83,6 +83,7 @@ Site: https://amazoniainvestiga.info/index.php/amazonia<br />
 
 14. <strong>Editora Conhecimento Livre</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
+Pagamento: 197 Reais
 Site: https://conhecimentolivre.org/home/<br />
 Obs: possui ISSN e DOI.<br />
 
