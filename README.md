@@ -83,7 +83,7 @@ Site: https://amazoniainvestiga.info/index.php/amazonia<br />
 
 14. <strong>Editora Conhecimento Livre</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
-Pagamento: 197 Reais
+Pagamento: 197 Reais<br />
 Site: https://conhecimentolivre.org/home/<br />
 Obs: possui ISSN e DOI.<br />
 
