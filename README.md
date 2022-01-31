@@ -83,9 +83,14 @@ Site: https://amazoniainvestiga.info/index.php/amazonia<br />
 
 14. <strong>Editora Conhecimento Livre</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
-Pagamento: 197 Reais<br />
+Pagamento: 197 Reais por capítulo<br />
 Site: https://conhecimentolivre.org/home/<br />
 Obs: possui ISSN e DOI.<br />
+
+15. <strong>Atena editora</strong><br />
+Tipo: Livro<br />
+Pagamento: 337 Reais por livro<br />
+Site: https://www.atenaeditora.com.br/<br />
 
 15. <strong>Editora Brazilian Journals Publicações de Periódicos e Editora Ltda</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
