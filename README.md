@@ -44,7 +44,7 @@ Site: http://periodicos.pucminas.br/index.php/abakos<br />
 
 1. <strong>Brazilian Journal of Development (BJD)</strong><br />
 ISSN: 2525-8761<br />
-Pagamento: :free: aparentemente gratuita<br />
+Pagamento: 490 Reais<br />
 Site: https://www.brazilianjournals.com/index.php/BRJD<br />
 
 ### Qualis unificado B3:
