@@ -1,6 +1,6 @@
 # Periódicos para publicação científica :book: - fev/2022
 
-## Revistas indexadas:
+## Revistas indexadas extraídas do [PDF não oficial](https://github.com/amarcel/periodicos/qualis_unificados.pdf):
 
 ### Qualis unificado A2:
 
