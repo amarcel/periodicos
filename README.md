@@ -11,12 +11,12 @@ Site: http://www.risti.xyz/index.php?lang=pt<br />
 
 ### Qualis unificado A3:
 
-1. <strong>Conjecturas</strong><br />
+2. <strong>Conjecturas</strong><br />
 ISSN: 1657-5830<br />
 Pagamento: 399.00 Reais (minha experiência: processo de publicação rápido e sem burocracia)<br />
 Site: http://www.conjecturas.org/index.php/edicoes<br />
 
-1. <strong>Research, Society and Development journal</strong><br />
+3. <strong>Research, Society and Development journal</strong><br />
 ISSN: 2525-3409<br />
 Pagamento: 300 Reais<br />
 Site: https://rsdjournal.org/index.php/rsd<br />
@@ -42,61 +42,66 @@ ISSN: 2316-9451<br />
 Pagamento: :free: aparentemente gratuita<br />
 Site: http://periodicos.pucminas.br/index.php/abakos<br />
 
-1. <strong>Brazilian Journal of Development (BJD)</strong><br />
-ISSN: 2525-8761<br />
+7. <strong>Brazilian Journal of Development (BJD)</strong><br />
+ISSN: 1548-0992<br />
 Pagamento: 490 Reais<br />
 Site: https://www.brazilianjournals.com/index.php/BRJD<br />
 
+8. <strong>IEEE Latin America Transactions</strong><br />
+ISSN: 2525-8761<br />
+Pagamento: "Articles exceeding 7 pages are considered overlength and must pay a unique overlength page fee of US$250, upon acceptance"<br />
+Site: https://latamt.ieeer9.org/index.php/transactions/index<br />
+
 ### Qualis unificado B3:
 
-8. <strong>Revista Tecnologia</strong><br />
+9. <strong>Revista Tecnologia</strong><br />
 ISSN: 2318-0730<br />
 Pagamento: :free: aparentemente gratuita<br />
 Site: https://periodicos.unifor.br/tec<br />
 
-1. <strong>Revista Eletrônica de Sistemas de Informação e Gestão Tecnológica</strong><br />
+10. <strong>Revista Eletrônica de Sistemas de Informação e Gestão Tecnológica</strong><br />
 ISSN: ISSN 2237-0072<br />
 Pagamento: :free: aparentemente gratuita<br />
 Site: https://periodicos.unifacef.com.br/index.php/resiget<br />
 
-10. <strong>Revista Brasileira de Computação Aplicada</strong><br />
+11. <strong>Revista Brasileira de Computação Aplicada</strong><br />
 ISSN: 2176-6649<br />
 Pagamento: :free: aparentemente gratuita<br />
 Site: http://seer.upf.br/index.php/rbca/index<br />
 
-11. <strong>Sodebras</strong><br />
+12. <strong>Sodebras</strong><br />
 ISSN: 1809-3957<br />
 Pagamento: 999.99 Reais (Papers must not exceed 8 pages, 4 authors and 1 MB)<br />
 Site: http://www.sodebras.com.br/Eng/Revista/<br />
 
-12. <strong>Revista Científica Multidisciplinar Núcleo do Conhecimento</strong><br />
+13. <strong>Revista Científica Multidisciplinar Núcleo do Conhecimento</strong><br />
 ISSN: 2448-0959<br />
 Pagamento: Depende do tempo de revisão do artigo (de 21 a 30 dias úteis 356,18 Reais + DOI: 89 Reais)<br />
 Site: https://www.nucleodoconhecimento.com.br/<br />
 
-13. <strong>Amazonia Investiga</strong><br />
+14. <strong>Amazonia Investiga</strong><br />
 ISSN: 2322-6307<br />
 Pagamento: é paga, mas não encontrei o valor no site (frequência mensal)<br />
 Site: https://amazoniainvestiga.info/index.php/amazonia<br />
 
 ## Livros, capítulos de livros e congressos:
 
-14. <strong>Editora Conhecimento Livre</strong><br />
+15. <strong>Editora Conhecimento Livre</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
 Pagamento: 197 Reais por capítulo<br />
 Site: https://conhecimentolivre.org/home/<br />
 Obs: possui ISSN e DOI.<br />
 
-15. <strong>Atena editora</strong><br />
+16. <strong>Atena editora</strong><br />
 Tipo: Livro<br />
 Pagamento: 337 Reais por livro<br />
 Site: https://www.atenaeditora.com.br/<br />
 
-15. <strong>Editora Brazilian Journals Publicações de Periódicos e Editora Ltda</strong><br />
+17. <strong>Editora Brazilian Journals Publicações de Periódicos e Editora Ltda</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
 Site: https://www.brazilianjournals.com.br/index.php<br />
 Obs: possui ISSN e DOI.<br />
 
-16. <strong>Computer on the beach</strong><br />
+18. <strong>Computer on the beach</strong><br />
 Tipo: Congresso para apresentação de trabalho<br />
 Site: https://computeronthebeach.com.br/<br />
