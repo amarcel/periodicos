@@ -94,24 +94,31 @@ ISSN: 2322-6307<br />
 Pagamento: é paga, mas não encontrei o valor no site (frequência mensal)<br />
 Site: https://amazoniainvestiga.info/index.php/amazonia<br />
 
+### Qualis unificado B4:
+
+17. <strong>American Journal of Engineering Research*</strong><br />
+ISSN: 2320-0936 / 2320-0847<br />
+Pagamento: 90 dólares<br />
+Site: https://www.ajer.org/index.html<br />
+
 ## Livros, capítulos de livros e congressos:
 
-17. <strong>Editora Conhecimento Livre</strong><br />
+18. <strong>Editora Conhecimento Livre</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
 Pagamento: 197 Reais por capítulo<br />
 Site: https://conhecimentolivre.org/home/<br />
 Obs: possui ISSN e DOI.<br />
 
-18. <strong>Atena editora</strong><br />
+19. <strong>Atena editora</strong><br />
 Tipo: Livro<br />
 Pagamento: 337 Reais por livro<br />
 Site: https://www.atenaeditora.com.br/<br />
 
-19. <strong>Editora Brazilian Journals Publicações de Periódicos e Editora Ltda</strong><br />
+20. <strong>Editora Brazilian Journals Publicações de Periódicos e Editora Ltda</strong><br />
 Tipo: Livro ou Capítulo de Livro<br />
 Site: https://www.brazilianjournals.com.br/index.php<br />
 Obs: possui ISSN e DOI.<br />
 
-20. <strong>Computer on the beach</strong><br />
+21. <strong>Computer on the beach</strong><br />
 Tipo: Congresso para apresentação de trabalho<br />
 Site: https://computeronthebeach.com.br/<br />
